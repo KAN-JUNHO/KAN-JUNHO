@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=Spring&logoColor=#6DB33F"/>
 
-#
+### 🥾 현재 하는 일
+백준 알고리즘 풀이중(골드) : https://www.acmicpc.net/user/junho7778
