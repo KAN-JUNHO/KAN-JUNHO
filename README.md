@@ -1,20 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=오늘도_화이팅_넘치게&animation=fadeIn&type=Waving)
 ### 👋 안녕하세요! 백엔드 개발자 박준호입니다.
 
-<!--
-**KAN-JUNHO/KAN-JUNHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/KAN-JUNHO/KAN-JUNHO)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAN-JUNHO&show_icons=true)
@@ -33,3 +19,6 @@ Here are some ideas to get you started:
 
 ### 🥾 현재 하는 일
 백준 알고리즘 풀이중(골드) : https://www.acmicpc.net/user/junho7778
+
+### 🔭 경력
+21.09 ~ 22.02 : 트래블라이(백엔드 개발)
