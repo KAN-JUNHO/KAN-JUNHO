@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 현재상태 : #백엔드 개발 이메일 : junho6667@gmail.com
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
+<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML&logoColor=E34F26"/></a>
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=007396"/>
 <img src="https://img.shields.io/badge/spring-green?style=flat&logo=Spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=Spring&logoColor=#6DB33F"/>
 
+#
