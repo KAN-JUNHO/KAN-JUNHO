@@ -4,6 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/KAN-JUNHO/KAN-JUNHO)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAN-JUNHO&show_icons=true)
+
 현재상태 : #백엔드 개발 이메일 : junho6667@gmail.com
 
 아는 기술:
