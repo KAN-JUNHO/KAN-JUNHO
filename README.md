@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?text=오늘도_화이팅_넘치게&animation=fadeIn&type=Waving)
 ### 👋 안녕하세요! 백엔드 개발자 박준호입니다.
 
 <!--
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KAN-JUNHO/KAN-JUNHO)](https://github.com/KAN-JUNHO/KAN-JUNHO)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/KAN-JUNHO/KAN-JUNHO)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAN-JUNHO&show_icons=true)
-
 현재상태 : #백엔드 개발 이메일 : junho6667@gmail.com
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+#007396
