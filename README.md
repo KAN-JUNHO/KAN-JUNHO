@@ -7,9 +7,6 @@
 
 현재상태 : #백엔드 개발 이메일 : junho6667@gmail.com
 
-아는 기술:
-<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML&logoColor=E34F26"/></a>
-<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
 
 좋아하는 기술:
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=007396"/>
