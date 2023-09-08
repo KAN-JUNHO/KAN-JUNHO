@@ -30,6 +30,7 @@
 ### 📫 프로젝트
 |프로젝트|내용|
 |:---|:---|
+|GPT를 이용한 개발|https://github.com/KAN-JUNHO/fastapi2|
 |티타이니 어드민 페이지 웹퍼블리싱|https://github.com/KAN-JUNHO/teetiny|
 |클라이언트 요청에 따른 서버 측 비동기 처리 구현(스레드 활용)|https://github.com/KAN-JUNHO/demo2|
 |롯데시네마 표예매 페이지 개발|https://github.com/KAN-JUNHO/spring/tree/master/jcinema|
