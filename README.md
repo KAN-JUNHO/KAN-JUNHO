@@ -28,8 +28,9 @@
 ### 📫 프로젝트
 | 프로젝트 이름 | 내용 | 링크 |
 |:---:|:---|:---:|
-| GPT를 이용한 개발 | - | [GitHub](https://github.com/KAN-JUNHO/fastApiProject2) |
-| 티타이니 어드민 페이지 웹퍼블리싱 | - | [GitHub](https://github.com/KAN-JUNHO/teetiny) |
-| 클라이언트 요청에 따른 서버 측 비동기 처리 구현(스레드 활용) | - | [GitHub](https://github.com/KAN-JUNHO/demo2) |
-| 롯데시네마 표예매 페이지 개발 | - | [GitHub](https://github.com/KAN-JUNHO/spring/tree/master/jcinema) |
-| 알고리즘 공부 페이지 | - | [GitHub](https://github.com/KAN-JUNHO/PYTHON_algorithm) |
+| GPT를 이용한 개발 | GPT를 활용한 백엔드 프로젝트 | [GitHub](https://github.com/KAN-JUNHO/fastApiProject2) |
+| 티타이니 어드민 페이지 웹퍼블리싱 | 티타이니 관리자 페이지의 웹 디자인 및 퍼블리싱 | [GitHub](https://github.com/KAN-JUNHO/teetiny) |
+| 클라이언트 요청에 따른 서버 측 비동기 처리 구현(스레드 활용) | 사용자의 요청을 비동기적으로 처리하기 위한 서버 측 구현 | [GitHub](https://github.com/KAN-JUNHO/demo2) |
+| 롯데시네마 표예매 페이지 개발 | 롯데시네마의 영화 표 예매 페이지 개발 | [GitHub](https://github.com/KAN-JUNHO/spring/tree/master/jcinema) |
+| 알고리즘 공부 페이지 | 다양한 알고리즘 문제를 풀이하고 공유하는 공간 | [GitHub](https://github.com/KAN-JUNHO/PYTHON_algorithm) |
+
