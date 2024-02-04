@@ -30,8 +30,7 @@
 
 | 프로젝트 이름 | 내용 | 링크 |
 |---------------|------|------|
-| **스프링 부트 기반 개인 금융 관리 애플리케이션** | 패션 팝업스토어에 일정을 관리해서 볼수 있는 애플리케이션입니다. 스프링 부트, JPA, MySQL, JavaScript를 사용하여 REST API를 구현하고, 사용자 인터페이스는 Thymeleaf로 구성됩니다. | [GitHub]([https://github.com/KAN-JUNHO/PersonalFinanceManager](https://github.com/Team-Shroom/shroom_Back)) |
-| **자바 기반 챗봇 엔진 개발** | 물물교교환 당근같은 거래소 기반에 애플리케이션입니다. 사용자의 물건을 실제로 거래할 수 있는 서비스입니다. 스프링 부트, JPA, MySQL, JavaScript를 사용하여 REST API를 구현하고, 사용자 인터페이스는 Thymeleaf로 구성됩니다.  | [GitHub]([https://github.com/KAN-JUNHO/JavaChatbotEngine](https://github.com/classMarket/marketRestApi)) |
+| **스프링 부트 기반 개인 금융 관리 애플리케이션** | 패션 팝업스토어에 일정을 관리해서 볼수 있는 애플리케이션입니다. 스프링 부트, JPA, MySQL, JavaScript를 사용하여 REST API를 구현하고, 사용자 인터페이스는 Thymeleaf로 구성됩니다. |[GitHub([https://github.com/KAN-JUNHO/PersonalFinanceManager](https://github.com/Team-Shroom/shroom_Back))| **자바 기반 챗봇 엔진 개발** | 물물교교환 당근같은 거래소 기반에 애플리케이션입니다. 사용자의 물건을 실제로 거래할 수 있는 서비스입니다. 스프링 부트, JPA, MySQL, JavaScript를 사용하여 REST API를 구현하고, 사용자 인터페이스는 Thymeleaf로 구성됩니다.  |[GitHub]([https://github.com/KAN-JUNHO/JavaChatbotEngine](https://github.com/classMarket/marketRestApi)) |
 
 ### 📫 프로젝트
 | 프로젝트 이름 | 내용 | 링크 |
