@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"/>
+<img src="https://img.shields.io/badge/Python-blueviolet?style=for-the-badge&logo=Python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Langchain-lightgrey?style=for-the-badge&logo=Langchain&logoColor=blue"/>
 
 ### 🥾 현재 하는 일
 🔍 **담당 업무**: 기존 레거시 유지보수 및 API 연동 개발  
