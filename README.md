@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-blueviolet?style=for-the-badge&logo=Python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Langchain-lightgrey?style=for-the-badge&logo=Langchain&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Streamlit-orange?style=for-the-badge&logo=Streamlit&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 ### 🥾 현재 하는 일
 🔍 **담당 업무**: 기존 레거시 유지보수 및 API 연동 개발  
 📚 **백준 알고리즘 풀이중(골드)**: [바로가기](https://www.acmicpc.net/user/junho7778)
