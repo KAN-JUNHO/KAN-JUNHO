@@ -10,20 +10,16 @@
 📧 **이메일**: junho6667@gmail.com  
 
 🚀 **좋아하는 기술**:
-- **백엔드**:
-  - ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=Java&logoColor=007396)
-    ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=Spring&logoColor=6DB33F)
-    ![Python](https://img.shields.io/badge/Python-blueviolet?style=for-the-badge&logo=Python&logoColor=ffdd54)
-    ![Spring Boot](https://img.shields.io/badge/Spring Boot-green?style=for-the-badge&logo=Spring&logoColor=6DB33F)
-    ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
-- **프론트엔드**:
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-    ![jQuery](https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=0769AD)
-    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-- **데브옵스 및 기타**:
-  - ![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
-  - ![Langchain](https://img.shields.io/badge/Langchain-lightgrey?style=for-the-badge&logo=Langchain&logoColor=blue)
-  - ![Streamlit](https://img.shields.io/badge/Streamlit-orange?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+**백엔드**:
+<img src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=Java&logoColor=007396" /> <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=Spring&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/Python-blueviolet?style=for-the-badge&logo=Python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Spring Boot-green?style=for-the-badge&logo=Spring&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white" />
+
+**프론트엔드**:
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=0769AD" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+
+**데브옵스 및 기타**:
+<img src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab" /> <img src="https://img.shields.io/badge/Langchain-lightgrey?style=for-the-badge&logo=Langchain&logoColor=blue" /> <img src="https://img.shields.io/badge/Streamlit-orange?style=for-the-badge&logo=Streamlit&logoColor=white" />
+
 
 ### 🥾 현재 하는 일
 🔍 **담당 업무**: 기존 레거시 유지보수 및 API 연동 개발  
